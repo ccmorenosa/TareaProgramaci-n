@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/andres/Documents/temp/Tarea/Ejercicio_2.1/Solución.cpp
+/home/andres/Documents/temp/Tarea/Ejercicio_2.4/Solución.cpp
 iostream
 -
 cmath
 -
 functional
--
-cstdlib
 -
 

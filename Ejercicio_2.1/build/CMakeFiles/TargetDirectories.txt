@@ -1,3 +1,0 @@
-/home/andres/Documents/temp/Tarea/Ejercicio_2.1/build/CMakeFiles/rebuild_cache.dir
-/home/andres/Documents/temp/Tarea/Ejercicio_2.1/build/CMakeFiles/Solucion.dir
-/home/andres/Documents/temp/Tarea/Ejercicio_2.1/build/CMakeFiles/edit_cache.dir
