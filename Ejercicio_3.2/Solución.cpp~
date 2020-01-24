@@ -1,0 +1,6 @@
+#include <iostream>
+#include <cmath>
+#include <vector>
+
+double phi(double x, std::vector<double> X, int j);
+double LP(double x, std::vector<double> X, std::vector<double> Y);
