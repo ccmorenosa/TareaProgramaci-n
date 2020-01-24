@@ -32,8 +32,8 @@ public class Solución{
         double l1=8;
         double l2=10;
         double g=3*Math.PI/5;
-        double ai=Math.PI/4;
-        System.out.printf("alfa= %f%n",Newton(l1,l2,g,ai));
-        System.out.printf("L= %f%n",L(l1,l2,g,ai));
+        double ai=Math.PI/5;
+        System.out.printf("alfa= %.14f%n",Newton(l1,l2,g,ai));
+        System.out.printf("L= %.4f%n",L(l1,l2,g,ai));
     }
 }
