@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andres/Documents/temp/Tarea/Ejercicio_2.1/Solución.cpp
+iostream
+-
+cmath
+-
+functional
+-
+cstdlib
+-
+
