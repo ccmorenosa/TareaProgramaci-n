@@ -1,4 +1,4 @@
-## Copyright (C) 2020 Andres Felipe Moreno
+## Copyright (C) 2020 Cindy Catalina Moreno
 ## 
 ## This program is free software; you can redistribute it and/or modify it
 ## under the terms of the GNU General Public License as published by
@@ -19,7 +19,7 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Andres Felipe Moreno <andres@Happy>
+## Author: Cindy Catalina Moreno <cata@Happy>
 ## Created: 2020-01-24
 
 function [retval] = F2 (i,j)
